@@ -1,6 +1,7 @@
 PRINT("THIS IS DATA SCIENCE CLASS")
 #Author: Nyamongo, Date: AUGUST 26 2024, purpose: calculate the correlation test. 
 library(ggpubr)
+my_data <- mtcars 
 Head(my_data)
 #�Create�a�hypothesis
 #�I�want�to�compare�the�weight�of�car�with�the�mpg,�more�the�weight,�less�is�the�mpg�travel�by�the�car
