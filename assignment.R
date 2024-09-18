@@ -1,6 +1,6 @@
 #Author:Nyamongo,Date: SEPTEMBER 18 2024, purppose: calculate correlation test
-#library("ggpbur")
-my_data<-mtcars
+>library("ggpbur")
+>my_data<-mtcars
 #read mtcars dataset in R
 #calculate correlation value between my_data$wt, my_data$gear
 > result<- cor.test(my_data$wt,my_data$gear,method="pearson")
