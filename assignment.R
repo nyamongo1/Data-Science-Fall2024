@@ -1,4 +1,4 @@
-#Author:Nyamongo,Date: AUGUST 26 2024, purppose: calculate correlation test
+#Author:Nyamongo,Date: SEPTEMBER 18 2024, purppose: calculate correlation test
 #library("ggpbur")
 my_data<-mtcars
 #read mtcars dataset in R
